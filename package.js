@@ -1,7 +1,8 @@
 Package.describe({
   name: 'dispatch:collection-view',
   version: '1.0.0',
-  summary: 'Create a collection view'
+  summary: 'Create a collection view',
+  git: 'https://github.com/DispatchMe/meteor-collection-view'
 });
 
 Package.onUse(function(api) {
