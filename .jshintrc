@@ -1,0 +1,20 @@
+{
+	"predef": [
+		"App",
+		"Assets",
+		"Cordova",
+		"ECMAScript",
+		"Map",
+		"Match",
+		"Meteor",
+		"Mongo",
+		"MongoInternals",
+		"Npm",
+		"Package",
+		"Promise",
+		"Set",
+		"babelHelpers",
+		"check"
+	],
+	"globals": {}
+}
